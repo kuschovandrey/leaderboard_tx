@@ -1,0 +1,2 @@
+type compressorDetails struct {
+	name         string
