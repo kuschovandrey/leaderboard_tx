@@ -1,3 +1,4 @@
 CompressionAlgo:  derive.Zlib
 Transactions: txs,
 	}), nil
+BatchType  uint
