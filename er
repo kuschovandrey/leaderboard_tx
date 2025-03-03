@@ -1,0 +1,3 @@
+func (cd compressorDetails) Compressor() (derive.Compressor, error) {
+	return cd.compressorFn(cd.config)
+}
