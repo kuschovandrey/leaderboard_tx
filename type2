@@ -1,1 +1,2 @@
 if batchType == derive.SingularBatchType
+return types.NewBlockWithHeader(&types.Header{
