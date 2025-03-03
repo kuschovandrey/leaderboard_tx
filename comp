@@ -1,1 +1,2 @@
 CompressionAlgo:  derive.Zlib
+return singularBatchToBlock(cfg, batch)
