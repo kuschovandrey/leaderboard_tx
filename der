@@ -1,0 +1,4 @@
+derive.Zlib,
+		derive.Brotli,
+		derive.Brotli9,
+		derive.Brotli1
