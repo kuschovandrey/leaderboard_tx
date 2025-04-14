@@ -1,1 +1,2 @@
 func (cd compressorDetails) String() string {
+if batchType == derive.SingularBatchType
